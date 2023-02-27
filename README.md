@@ -1,13 +1,9 @@
-Hi there 👋
-<!--
-**saidcindy/saidcindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I'm a dual-citizen and trilingual software engineer from La Havana, Cuba. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a web application that helps individuals and organizations track their carbon footprint and provides personalized recommendations for reducing their environmental impact. I'm also contributing to open-source projects related to sustainability and climate action.
+-🔭 I’m currently working on a web application that helps individuals and organizations track their carbon footprint and provides personalized recommendations for reducing their environmental impact. I'm also contributing to open-source projects related to sustainability and climate action.
 - 🌱 I’m currently learning about machine learning and data analytics, with a focus on applying these tools to environmental data. I'm also studying UX design and front-end development to improve the user experience of my applications.
 - 👯 I’m looking to collaborate in projects related to renewable energy, circular economy, and sustainable agriculture.
-- 🤔 I'm always looking for opportunities to learn and grow as a developer, so any help or guidance from experienced programmers would be greatly appreciated. I'm looking for collaborators who can contribute domain expertise in areas such as environmental science, policy, and economics.
+- 🤔 I'm always looking for opportunities to learn and grow as a developer. 
 - 💬 You can ask me about my experiences working at the intersection of technology and sustainability, my favorite coding languages and tools, or my thoughts on the role of software engineers in addressing environmental challenges.
 - 📫 Send me an e-mail at cindyguerra.h@outlook.com
 - 😄 Pronouns: She/Her/Hers
